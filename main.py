@@ -8,7 +8,7 @@ import webbrowser
 import datetime
 import wikipedia
 import pywhatkit as wk
-token="XQinEg2NVJ8tm9hE8bUSdRNGCJc5otLshso3IJ2zt5qeFk0Ez9e25y0eDrlGAhkR9vNVRQ."
+token="ENTER YOUR API KEY OR TOKEN HERE"
 
 
 chatbot = Chatbot(token)
